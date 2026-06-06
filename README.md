@@ -87,7 +87,7 @@ Ensure you have **Node.js** (v18.0.0+) and **npm** (v9.0.0+) installed on your m
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/shreekant-lohagale/VendorBridge.git
+    git clone https://github.com/yashviPayal/VendorBridge.git
     cd VendorBridge
     ```
 
