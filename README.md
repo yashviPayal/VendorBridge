@@ -4,6 +4,8 @@ VendorBridge is a modern, production-grade **Procurement & Vendor Management ERP
 
 Built with **React 19**, **Vite**, **TypeScript**, **Zustand**, and **Tailwind CSS**, it features a fully persistent mock database synchronized with browser local storage and high-fidelity interactive animations (using **GSAP** and **Framer Motion**).
 
+## Check out project live at:https://vendor-bridge-seven.vercel.app/
+
 ---
 
 ## ✨ Core Features
