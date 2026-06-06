@@ -1,0 +1,34 @@
+# System & Environment Requirements
+Node.js >= 18.0.0
+npm >= 9.0.0
+
+# Core Frontend Framework & Bundler
+react == 19.2.6
+react-dom == 19.2.6
+vite == 8.0.12
+typescript == 6.0.2
+
+# State Management & Routing
+zustand == 5.0.14
+react-router-dom == 7.17.0
+
+# Forms & Validation
+react-hook-form == 7.77.0
+zod == 4.4.3
+@hookform/resolvers == 5.4.0
+
+# UI, Layout & Icons
+tailwindcss == 4.3.0
+@tailwindcss/vite == 4.3.0
+lucide-react == 1.17.0
+framer-motion == 12.40.0
+gsap == 3.15.0
+@radix-ui/react-slot == 1.2.5
+class-variance-authority == 0.7.1
+clsx == 2.1.1
+tailwind-merge == 3.6.0
+
+# Charts, Analytics & Data Fetching
+recharts == 3.8.1
+@tanstack/react-query == 5.101.0
+react-is == 19.2.7
