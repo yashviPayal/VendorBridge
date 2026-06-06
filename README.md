@@ -69,4 +69,4 @@ VendorBridge is an enterprise-grade resource planning platform engineered to dig
 * Vansh Gami
 
 ---
-### Feel free to drop our suggestions or open a pull request for any enhancements. Happy coding !
+### Feel free to drop your suggestions or open a pull request for any enhancements. Happy coding !
